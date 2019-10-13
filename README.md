@@ -5,7 +5,7 @@ Hanyang University Jiyong Park 2013011974 Hongsik Kim 2016025341
 This is a modification of https://github.com/HyeonseobNam/py-MDNet.
 
 ## Prerequisites
-empty ```__init.py__ ``` file is needed in main folder, /modules, and /tracking.
+empty ```__init__.py``` file is needed in main folder, /modules, and /tracking.
 
 Others: same as https://github.com/HyeonseobNam/py-MDNet
 
