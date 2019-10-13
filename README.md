@@ -4,6 +4,11 @@ Hanyang University Jiyong Park 2013011974 Hongsik Kim 2016025341
 
 This is a modification of https://github.com/HyeonseobNam/py-MDNet.
 
+## Prerequisites
+empty ```bash __init.py__ ``` file is needed in main folder, /modules, and /tracking.
+
+Others: same as https://github.com/HyeonseobNam/py-MDNet
+
 ## Models, trackers, and training results
 Model0: models/model000.pth, modules/model000.py
 
