@@ -20,7 +20,7 @@ Tracker2: tracking/gpu_tracker002.py
 
 Tracker3: tracking/gpu_tracker003.py
 
-training results: FINAL_RESULT/result.txt
+training results: result.txt
 
 ## Tracking
 all trackers (Tracker0, Tracker2, Tracker3):
