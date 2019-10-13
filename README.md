@@ -32,3 +32,6 @@ Tracker3 only:
 ```bash
  python tracking/run003.py
 ```
+
+## Pretraining
+same as https://github.com/HyeonseobNam/py-MDNet
