@@ -7,6 +7,8 @@ This is a modification of https://github.com/HyeonseobNam/py-MDNet.
 ## Prerequisites
 empty ```__init__.py``` file is needed in main folder, /modules, and /tracking.
 
+You must download imagenet-vgg-m.mat from http://www.vlfeat.org/matconvnet/models/imagenet-vgg-m.mat and copy-paste it to /models folder.
+
 Others: same as https://github.com/HyeonseobNam/py-MDNet
 
 ## Models, trackers, and training results
